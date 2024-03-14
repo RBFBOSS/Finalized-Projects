@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\rfbol\OneDrive\Desktop\Finalized-Projects\Atestat liceu\main.cpp(10,16): warning C4309: 'initializing': truncation of constant value
+C:\Users\rfbol\OneDrive\Desktop\Finalized-Projects\Atestat liceu\main.cpp(279,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\rfbol\OneDrive\Desktop\Finalized-Projects\Atestat liceu\main.cpp(1261,13): warning C4551: function call missing argument list
+C:\Users\rfbol\OneDrive\Desktop\Finalized-Projects\Atestat liceu\main.cpp(1277,13): warning C4551: function call missing argument list
+  Atestat liceu.vcxproj -> C:\Users\rfbol\OneDrive\Desktop\Finalized-Projects\Atestat liceu\x64\Debug\Atestat liceu.exe

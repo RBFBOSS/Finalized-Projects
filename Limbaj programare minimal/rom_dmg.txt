@@ -1,0 +1,83 @@
+USER_CLASSES
+
+clasa complex
+{
+    float a;
+    float b;
+
+    float func cls_functie (int i)
+    {
+        acest->a egal acest->a ori i;
+        acest->b egal acest->b plus i;
+    }
+}
+
+USER_FUNCTIONS
+
+int func function_1 (char a, char b)
+{
+    string resp[101];
+
+    daca(a eg b)
+    {
+        resp egal "Are equal";
+    }
+    altfel
+    {
+        resp egal "Are not equal";
+    }
+
+	returnare resp;
+}
+
+string func function_2 (string a, string b)
+{
+	string c;
+    c egal a plus b;
+	returnare c;
+}
+
+USER_VARIABLES
+
+complex com;
+int g_a[21][11];
+
+program_start
+
+    int a;
+    a egal 5;
+    int b;
+    b egal 11;
+
+    func TypeOf (a);
+    func Eval (a);
+    func Eval (a plus b);
+
+    cat_timp (a mmc b)
+    {
+        b egal b minus 1;
+    }
+
+    func Eval(a plus 10);
+
+    int c;
+    c egal 2 ori 7 plus 42 minus 14 ori (7 ori 2);
+    int i;
+    i egal 1;
+
+    bool aaa;
+    aaa egal ADEVARAT;
+
+    char cc;
+    func TypeOf(cc);
+
+    pentru i in_raza (a,b,1)
+    {
+        c egal c ori i;
+    }
+
+    func Eval (c);
+
+    string st_b;
+
+program_end
